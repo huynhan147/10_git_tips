@@ -1,6 +1,6 @@
 #10 lời khuyên giúp nâng các kĩ năng git của bạn lên tầm cao mới
 
-Gần đây, chúng tôi đã phát hành 1 vài hướng dẫn nhằm giúp bạn làm quen với Git cơ bản và sử dụng Git trong môi trường nhóm. Các câu lệnh mà chúng tôi thảo luận khá là đủ để giúp 1 người phát triển sống st trong thế giới Git. Trong bài đăng này, chúng tôi sẽ cố tìm hiểu làm cách nào để quản lý thời gian của bạn 1 cách hiệu quả và sử dụng đầy đủ các tính nắng mà Git cung cấp.
+Gần đây, chúng tôi đã phát hành 1 vài hướng dẫn nhằm giúp bạn làm quen với Git cơ bản và sử dụng Git trong môi trường nhóm. Các câu lệnh mà chúng tôi thảo luận khá là đủ để giúp 1 người phát triển sống sót trong thế giới Git. Trong bài đăng này, chúng tôi sẽ cố tìm hiểu làm cách nào để quản lý thời gian của bạn 1 cách hiệu quả và sử dụng đầy đủ các tính nắng mà Git cung cấp.
 
 Lưu ý: 1 vài câu lệnh trong bài viết này bao gồm 1 phần của câu lệnh nằm trong ngoặc vuông ( ví dụ git add -p [file_name]). Trong những ví dụ đó, bạn sẽ thêm các số, định danh cần thiết, vân vân mà không có ngoặc vuông.
 
